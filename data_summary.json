@@ -1,0 +1,75 @@
+{
+  "last_updated": "2025-07-12 08:49:23.187441",
+  "season": 2025,
+  "available_races": [
+    {
+      "folder": "Austria GP",
+      "valid": true,
+      "message": "All required files present",
+      "files": [
+        {
+          "name": "constructors_2025_round_11.csv",
+          "rows": 10,
+          "columns": 1
+        },
+        {
+          "name": "constructor_results_2025_round_11.csv",
+          "rows": 20,
+          "columns": 7
+        },
+        {
+          "name": "constructor_standings_2025_round_11.csv",
+          "rows": 20,
+          "columns": 7
+        },
+        {
+          "name": "drivers_2025_round_11.csv",
+          "rows": 20,
+          "columns": 7
+        },
+        {
+          "name": "driver_standings_2025_round_11.csv",
+          "rows": 20,
+          "columns": 6
+        },
+        {
+          "name": "lap_times_2025_round_11.csv",
+          "rows": 1127,
+          "columns": 8
+        },
+        {
+          "name": "pit_stops_2025_round_11.csv",
+          "rows": 32,
+          "columns": 4
+        },
+        {
+          "name": "qualifying_results_2025_round_11.csv",
+          "rows": 20,
+          "columns": 8
+        },
+        {
+          "name": "races_data_2025.csv",
+          "rows": 25,
+          "columns": 7
+        },
+        {
+          "name": "race_results_2025_round_11.csv",
+          "rows": 20,
+          "columns": 21
+        },
+        {
+          "name": "race_status_2025_round_11.csv",
+          "rows": 20,
+          "columns": 3
+        },
+        {
+          "name": "season_data_2025.csv",
+          "rows": 25,
+          "columns": 6
+        }
+      ]
+    }
+  ],
+  "total_samples": 1359,
+  "data_quality": {}
+}

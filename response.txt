@@ -1,0 +1,20 @@
+Hi Junie,
+
+I've examined the Formula 1 2025 season dataset you provided, which includes detailed race data for multiple Grand Prix events (Canada, Austria, UK). 
+
+The dataset contains comprehensive information about:
+- Driver standings and race results
+- Team (constructor) information
+- Qualifying results
+- Race status and lap times
+- Pit stops
+- Season calendar
+
+I notice the data appears to be for a fictional 2025 F1 season with some interesting driver-team combinations (like Hamilton at Ferrari and Verstappen at Red Bull).
+
+I also noticed that the constructor_standings and constructor_results files appear to contain driver results rather than team totals.
+
+Could you please provide more specific instructions about what changes or analysis you'd like me to perform with this dataset?
+
+Thank you,
+[Your AI Assistant]

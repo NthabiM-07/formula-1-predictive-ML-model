@@ -1,0 +1,146 @@
+[
+  {
+    "round": 1,
+    "name": "Bahrain GP",
+    "date": "2025-03-16",
+    "location": "Sakhir"
+  },
+  {
+    "round": 2,
+    "name": "Saudi Arabia GP",
+    "date": "2025-03-23",
+    "location": "Jeddah"
+  },
+  {
+    "round": 3,
+    "name": "Australia GP",
+    "date": "2025-04-06",
+    "location": "Melbourne"
+  },
+  {
+    "round": 4,
+    "name": "Japan GP",
+    "date": "2025-04-13",
+    "location": "Suzuka"
+  },
+  {
+    "round": 5,
+    "name": "China GP",
+    "date": "2025-04-20",
+    "location": "Shanghai"
+  },
+  {
+    "round": 6,
+    "name": "Miami GP",
+    "date": "2025-05-04",
+    "location": "Miami"
+  },
+  {
+    "round": 7,
+    "name": "Emilia Romagna GP",
+    "date": "2025-05-18",
+    "location": "Imola"
+  },
+  {
+    "round": 8,
+    "name": "Monaco GP",
+    "date": "2025-05-25",
+    "location": "Monaco"
+  },
+  {
+    "round": 9,
+    "name": "Spain GP",
+    "date": "2025-06-01",
+    "location": "Barcelona"
+  },
+  {
+    "round": 10,
+    "name": "Canada GP",
+    "date": "2025-06-15",
+    "location": "Montreal"
+  },
+  {
+    "round": 11,
+    "name": "Austria GP",
+    "date": "2025-06-29",
+    "location": "Spielberg"
+  },
+  {
+    "round": 12,
+    "name": "UK GP",
+    "date": "2025-07-06",
+    "location": "Silverstone"
+  },
+  {
+    "round": 13,
+    "name": "Hungary GP",
+    "date": "2025-07-20",
+    "location": "Budapest"
+  },
+  {
+    "round": 14,
+    "name": "Belgium GP",
+    "date": "2025-07-27",
+    "location": "Spa"
+  },
+  {
+    "round": 15,
+    "name": "Netherlands GP",
+    "date": "2025-08-31",
+    "location": "Zandvoort"
+  },
+  {
+    "round": 16,
+    "name": "Italy GP",
+    "date": "2025-09-07",
+    "location": "Monza"
+  },
+  {
+    "round": 17,
+    "name": "Azerbaijan GP",
+    "date": "2025-09-21",
+    "location": "Baku"
+  },
+  {
+    "round": 18,
+    "name": "Singapore GP",
+    "date": "2025-10-05",
+    "location": "Singapore"
+  },
+  {
+    "round": 19,
+    "name": "USA GP",
+    "date": "2025-10-19",
+    "location": "Austin"
+  },
+  {
+    "round": 20,
+    "name": "Mexico GP",
+    "date": "2025-10-26",
+    "location": "Mexico City"
+  },
+  {
+    "round": 21,
+    "name": "Brazil GP",
+    "date": "2025-11-09",
+    "location": "S\u00e3o Paulo"
+  },
+  {
+    "round": 22,
+    "name": "Las Vegas GP",
+    "date": "2025-11-22",
+    "location": "Las Vegas"
+  },
+  {
+    "round": 23,
+    "name": "Qatar GP",
+    "date": "2025-11-30",
+    "location": "Lusail"
+  },
+  {
+    "round": 24,
+    "name": "Abu Dhabi GP",
+    "date": "2025-12-07",
+    "location": "Yas Marina"
+  }
+]
