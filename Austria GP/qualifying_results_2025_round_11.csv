@@ -1,0 +1,21 @@
+Abbreviation,Driver ID,Full Name,Team,Q1 Time,Q2 Time,Q3 Time,Position
+NOR,norris,Lando Norris,McLaren,0 days 00:01:04.672000,0 days 00:01:04.410000,0 days 00:01:03.971000,1.0
+LEC,leclerc,Charles Leclerc,Ferrari,0 days 00:01:05.197000,0 days 00:01:04.734000,0 days 00:01:04.492000,2.0
+PIA,piastri,Oscar Piastri,McLaren,0 days 00:01:04.966000,0 days 00:01:04.556000,0 days 00:01:04.554000,3.0
+HAM,hamilton,Lewis Hamilton,Ferrari,0 days 00:01:05.115000,0 days 00:01:04.896000,0 days 00:01:04.582000,4.0
+RUS,russell,George Russell,Mercedes,0 days 00:01:05.189000,0 days 00:01:04.860000,0 days 00:01:04.763000,5.0
+LAW,lawson,Liam Lawson,Racing Bulls,0 days 00:01:05.017000,0 days 00:01:05.041000,0 days 00:01:04.926000,6.0
+VER,max_verstappen,Max Verstappen,Red Bull Racing,0 days 00:01:05.106000,0 days 00:01:04.836000,0 days 00:01:04.929000,7.0
+BOR,bortoleto,Gabriel Bortoleto,Kick Sauber,0 days 00:01:05.123000,0 days 00:01:04.846000,0 days 00:01:05.132000,8.0
+ANT,antonelli,Kimi Antonelli,Mercedes,0 days 00:01:05.178000,0 days 00:01:05.052000,0 days 00:01:05.276000,9.0
+GAS,gasly,Pierre Gasly,Alpine,0 days 00:01:05.054000,0 days 00:01:04.846000,0 days 00:01:05.649000,10.0
+ALO,alonso,Fernando Alonso,Aston Martin,0 days 00:01:05.197000,0 days 00:01:05.128000,,11.0
+ALB,albon,Alexander Albon,Williams,0 days 00:01:05.143000,0 days 00:01:05.205000,,12.0
+HAD,hadjar,Isack Hadjar,Racing Bulls,0 days 00:01:05.063000,0 days 00:01:05.226000,,13.0
+COL,colapinto,Franco Colapinto,Alpine,0 days 00:01:05.278000,0 days 00:01:05.288000,,14.0
+BEA,bearman,Oliver Bearman,Haas F1 Team,0 days 00:01:05.218000,0 days 00:01:05.312000,,15.0
+STR,stroll,Lance Stroll,Aston Martin,0 days 00:01:05.329000,,,16.0
+OCO,ocon,Esteban Ocon,Haas F1 Team,0 days 00:01:05.364000,,,17.0
+TSU,tsunoda,Yuki Tsunoda,Red Bull Racing,0 days 00:01:05.369000,,,18.0
+SAI,sainz,Carlos Sainz,Williams,0 days 00:01:05.582000,,,19.0
+HUL,hulkenberg,Nico Hulkenberg,Kick Sauber,0 days 00:01:05.606000,,,20.0

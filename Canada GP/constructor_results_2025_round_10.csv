@@ -1,0 +1,21 @@
+Driver ID,Team,Full Name,Position,Points,Status,Time
+russell,Mercedes,George Russell,1.0,25.0,Finished,0 days 01:31:52.688000
+max_verstappen,Red Bull Racing,Max Verstappen,2.0,18.0,Finished,0 days 00:00:00.228000
+antonelli,Mercedes,Kimi Antonelli,3.0,15.0,Finished,0 days 00:00:01.014000
+piastri,McLaren,Oscar Piastri,4.0,12.0,Finished,0 days 00:00:02.109000
+leclerc,Ferrari,Charles Leclerc,5.0,10.0,Finished,0 days 00:00:03.442000
+hamilton,Ferrari,Lewis Hamilton,6.0,8.0,Finished,0 days 00:00:10.713000
+alonso,Aston Martin,Fernando Alonso,7.0,6.0,Finished,0 days 00:00:10.972000
+hulkenberg,Kick Sauber,Nico Hulkenberg,8.0,4.0,Finished,0 days 00:00:15.364000
+ocon,Haas F1 Team,Esteban Ocon,9.0,2.0,Lapped,0 days 00:00:01.473000
+sainz,Williams,Carlos Sainz,10.0,1.0,Lapped,0 days 00:00:01.886000
+bearman,Haas F1 Team,Oliver Bearman,11.0,0.0,Lapped,0 days 00:00:03.717000
+tsunoda,Red Bull Racing,Yuki Tsunoda,12.0,0.0,Lapped,0 days 00:00:05.456000
+colapinto,Alpine,Franco Colapinto,13.0,0.0,Lapped,0 days 00:00:07.018000
+bortoleto,Kick Sauber,Gabriel Bortoleto,14.0,0.0,Lapped,0 days 00:00:07.879000
+gasly,Alpine,Pierre Gasly,15.0,0.0,Lapped,0 days 00:00:07.950000
+hadjar,Racing Bulls,Isack Hadjar,16.0,0.0,Lapped,0 days 00:00:08.737000
+stroll,Aston Martin,Lance Stroll,17.0,0.0,Lapped,0 days 00:00:09.063000
+norris,McLaren,Lando Norris,18.0,0.0,Retired,
+lawson,Racing Bulls,Liam Lawson,19.0,0.0,Retired,
+albon,Williams,Alexander Albon,20.0,0.0,Retired,

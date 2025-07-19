@@ -1,0 +1,21 @@
+Driver ID,Team,Full Name,Position,Points,Status,Time
+norris,McLaren,Lando Norris,1.0,25.0,Finished,0 days 01:23:47.693000
+piastri,McLaren,Oscar Piastri,2.0,18.0,Finished,0 days 00:00:02.695000
+leclerc,Ferrari,Charles Leclerc,3.0,15.0,Finished,0 days 00:00:19.820000
+hamilton,Ferrari,Lewis Hamilton,4.0,12.0,Finished,0 days 00:00:29.020000
+russell,Mercedes,George Russell,5.0,10.0,Finished,0 days 00:01:02.396000
+lawson,Racing Bulls,Liam Lawson,6.0,8.0,Finished,0 days 00:01:07.754000
+alonso,Aston Martin,Fernando Alonso,7.0,6.0,Lapped,0 days 00:00:01.437000
+bortoleto,Kick Sauber,Gabriel Bortoleto,8.0,4.0,Lapped,0 days 00:00:01.952000
+hulkenberg,Kick Sauber,Nico Hulkenberg,9.0,2.0,Lapped,0 days 00:00:07.720000
+ocon,Haas F1 Team,Esteban Ocon,10.0,1.0,Lapped,0 days 00:00:09.986000
+bearman,Haas F1 Team,Oliver Bearman,11.0,0.0,Lapped,0 days 00:00:24.854000
+hadjar,Racing Bulls,Isack Hadjar,12.0,0.0,Lapped,0 days 00:00:27.957000
+gasly,Alpine,Pierre Gasly,13.0,0.0,Lapped,0 days 00:00:33.055000
+stroll,Aston Martin,Lance Stroll,14.0,0.0,Lapped,0 days 00:00:34.462000
+colapinto,Alpine,Franco Colapinto,15.0,0.0,Lapped,0 days 00:00:42.692000
+tsunoda,Red Bull Racing,Yuki Tsunoda,16.0,0.0,Lapped,0 days 00:00:02.979000
+albon,Williams,Alexander Albon,17.0,0.0,Retired,
+max_verstappen,Red Bull Racing,Max Verstappen,18.0,0.0,Retired,
+antonelli,Mercedes,Kimi Antonelli,19.0,0.0,Retired,
+sainz,Williams,Carlos Sainz,20.0,0.0,Did not start,
